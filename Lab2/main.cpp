@@ -5,6 +5,18 @@
  *      Author: Alex
  */
 
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+int main()
+{
+	cout << "Hi" << endl;
+
+	return 0;
+}
+
 
 
 
